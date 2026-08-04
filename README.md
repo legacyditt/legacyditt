@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 ```yaml
-name: Legacyditt
+name: Delano D. S. Manafe
 role: CS Student at University of Nusa Cendana
 focus: [Full-Stack Web Development]
 currently_learning: "Next.js & NestJS ecosystem"

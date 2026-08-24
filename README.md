@@ -15,11 +15,12 @@
 ### 🚀 About Me
 
 ```yaml
-name: Delano Manafe
-role: CS Student at Universitas Nusa Cendana 
+name: Legacyditt
+role: CS Student @ Universitas Nusa Cendana (Sem 6)
 focus: [Full-Stack Web Development]
 currently_learning: "Next.js & NestJS ecosystem"
 looking_to_collaborate: "Open source & side projects"
+fun_fact: "..."
 ```
 
 </td>
@@ -27,7 +28,15 @@ looking_to_collaborate: "Open source & side projects"
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=legacyditt&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=legacyditt&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%"/> </td> </tr> </table> <br> <div align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=legacyditt&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 ### 🛠️ Tech Stack
 
@@ -38,6 +47,8 @@ looking_to_collaborate: "Open source & side projects"
 <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn,daisyui,neon,drizzle,betterauth&theme=dark" />
 
 <br><br>
+
+<img src="https://img.shields.io/badge/NextAuth.js-2D2D2D?style=for-the-badge" />
 
 </div>
 

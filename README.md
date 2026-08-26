@@ -48,8 +48,6 @@ fun_fact: "..."
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NextAuth.js-2D2D2D?style=for-the-badge" />
-
 </div>
 
 <br>

@@ -56,7 +56,7 @@ fun_fact: "..."
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=legacyditt&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="profile-3d-contrib/profile-night-green.svg" width="100%"/>
 
 </div>
 

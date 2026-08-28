@@ -16,7 +16,7 @@
 
 ```yaml
 name: Legacyditt
-role: CS Student @ Universitas Nusa Cendana (Sem 6)
+role: Computer Science Student at Universitas Nusa Cendana 
 focus: [Full-Stack Web Development]
 currently_learning: "Next.js & NestJS ecosystem"
 looking_to_collaborate: "Open source & side projects"

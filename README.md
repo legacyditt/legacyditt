@@ -16,7 +16,7 @@
 
 ```yaml
 name: Legacyditt
-role: Computer Science Student at Universitas Nusa Cendana 
+role: CS Student at Universitas Nusa Cendana
 focus: [Full-Stack Web Development]
 currently_learning: "Next.js & NestJS ecosystem"
 looking_to_collaborate: "Open source & side projects"
@@ -46,16 +46,6 @@ looking_to_collaborate: "Open source & side projects"
 <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn,daisyui,neon,drizzle,betterauth&theme=dark" />
 
 <br><br>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="profile-3d-contrib/profile-night-green.svg" width="100%"/>
 
 </div>
 

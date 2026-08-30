@@ -27,15 +27,7 @@ looking_to_collaborate: "Open source & side projects"
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=legacyditt&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=legacyditt&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%"/> </td> </tr> </table> <br> <div align="center">
 
 ### 🛠️ Tech Stack
 

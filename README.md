@@ -27,7 +27,7 @@ looking_to_collaborate: "Open source & side projects"
 
 ### 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=legacyditt&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%"/> </td> </tr> </table> <br> <div align="center">
+<img src="profile-summary-card-output/discord_old_blurple/0-profile-details.svg" width="100%"/> <img src="profile-summary-card-output/discord_old_blurple/3-stats.svg" width="100%"/> </td> </tr> </table> <br> <div align="center">
 
 ### 🛠️ Tech Stack
 

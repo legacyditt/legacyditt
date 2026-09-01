@@ -15,11 +15,11 @@
 ### 🚀 About Me
 
 ```yaml
-name: Legacyditt
+name: Delano Datty Soleman Manafe
 role: CS Student at University of Nusa Cendana
-focus: [Full-Stack Web Development]
-currently_learning: "Next.js & NestJS ecosystem"
-looking_to_collaborate: "Full-stack web app projects"
+focus: Full-Stack Web Development
+currently_learning: Next.js & NestJS ecosystem
+looking_to_collaborate: Full-stack web app projects
 ```
 
 </td>

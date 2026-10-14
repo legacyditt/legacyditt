@@ -100,7 +100,7 @@ Architecture: Feature-driven frontend and layered backend architecture.
   <img
     src="./github-metrics.svg"
     alt="GitHub Metrics"
-    width="50%"
+    width="55%"
   />
 </p>
 

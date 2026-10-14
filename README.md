@@ -92,17 +92,45 @@ Architecture: Feature-driven frontend and layered backend architecture.
 
 ---
 
-## GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=legacyditt&theme=github-compact&bg_color=00000000&color=8b949e&line=58a6ff&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity)
 
+## GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=legacyditt&show_icons=true&hide_title=true&hide_rank=true&theme=transparent&hide_border=true"
-    alt="GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=legacyditt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=legacyditt&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Top Languages"
   />
 </p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/legacyditt/legacyditt/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/legacyditt/legacyditt/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution activity"
+      src="https://raw.githubusercontent.com/legacyditt/legacyditt/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
 
 ---
 
